@@ -3,7 +3,7 @@
 */
 
 #include <stdio.h>
-
+// this flag use to refer to if number prime or not
 int isPrimeNumber( int number );
 
 int main () {
