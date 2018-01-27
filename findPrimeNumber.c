@@ -14,7 +14,7 @@ int isPrimeNumber( int number ) {
 
     int isPrimeNumber = 1;
 
-    for ( int divider = 1; divider <= number/2; divider++ ) {
+    for ( int divider = 2; divider <= number/2; divider++ ) {
 
         if ( number % divider == 0 ) {
             isPrimeNumber = 0;
