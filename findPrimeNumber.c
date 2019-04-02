@@ -1,6 +1,7 @@
 /* 
 * create function to find prime number
 * Author: mohamed khaled khalil
+* make edit on the server
 */
 
 
